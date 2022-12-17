@@ -1,0 +1,32 @@
+/**Tag selectors**/
+h4{
+    color:red;
+}
+body
+{
+    background-color:blanchedalmond;
+}
+img
+{
+    background-color: darkgoldenrod;
+    border-color: black;
+}
+
+/**class selector**/
+
+.dahibaraaloodum
+{
+    background-color: darkgoldenrod;
+    border-color: black;
+}
+
+.circular
+{
+    border-radius: 0%;
+}
+
+/** Id selector**/
+#heading:hover
+{
+    color:blueviolet;
+}
